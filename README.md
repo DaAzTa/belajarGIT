@@ -9,3 +9,12 @@ Daftar tugas / branch
 7. Tugas-finalProject
 
 Daftar perintah GiT
+Daftar perintah GiT
+- git clone <URL> : Meng-clone repositori
+- git checkout -b <branch> : Membuat dan pindah ke branch baru
+- git add <file> : Menambahkan file ke staging area
+- git commit -m "pesan" : Melakukan commit
+- git checkout main : Kembali ke branch main
+- git merge <branch> : Menggabungkan branch
+- git push origin main : Sinkronisasi ke remote
+- git pull origin main : Untuk mengambil perubahan baru di main
